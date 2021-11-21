@@ -4,5 +4,5 @@ import Cocoa
 
 let delegate = AppDelegate()
 NSApplication.shared.delegate = delegate
-_ = NSApplicationMain(Command.argc, CommandLine.unsafeArgv)
+_ = NSApplicationMain(CommandLine.argc, CommandLine.unsafeArgv)
 
