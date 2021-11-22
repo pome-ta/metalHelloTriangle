@@ -13,4 +13,29 @@
 
 
 よくわからんけど、やってみる
- 
+
+
+
+## 📝 2021/11/22
+
+[NSWindow without Storyboard](https://kicsipixel.github.io/2020/nostoryboard/) ここは、Xcode でプロジェクト作成してからっぽいので、参考にしてView のこと勉強しようとしたけど、一旦Metal に専念することにした
+
+
+### Window でないけど？😂
+
+`No Info.plist file in application bundle or no NSPrincipalClass in the Info.plist file, exiting`
+
+`Info.plist` が無いとか怒られるけど？
+
+コマンドラインで実行した時に、なにも生成してくれてないけども？
+
+
+```
+$ swift package init --type executable
+```
+
+```
+$ swift run
+```
+
+

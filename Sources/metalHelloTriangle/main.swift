@@ -1,4 +1,3 @@
-//print("Hello, world!")
 // main.swift
 import Cocoa
 
