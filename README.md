@@ -38,4 +38,6 @@ $ swift package init --type executable
 $ swift run
 ```
 
+## なにだと実行ができるのだ？
 
+なにが正解？
